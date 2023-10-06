@@ -9,10 +9,7 @@
 
 ## All Algorithms implemented in C# - for education purposes
 
-The repository is a collection of a variety of algorithms implemented in C#. The algorithms span over a variety of topics
-from computer science, mathematics and statistics, data science, machine learning, engineering, etc. The implementations
-and their associated documentations are meant to provide a learning resource for educators and students. Hence, one may
-find more than one implementation for the same objective but using different algorithm strategies and optimizations.
+The repository is a collection of a variety of algorithms implemented in C#. 
 
 </div>
 
@@ -251,9 +248,3 @@ find more than one implementation for the same objective but using different alg
     * [Least Recently Used (LRU) Cache](./DataStructures/Cache/LruCache.cs)
 
 
-## Contributing
-
-You can contribute with pleasure to this repository.
-Please orient on the directory structure and overall code style of this repository
-and refer to [our contributing guidelines](./CONTRIBUTING.md) for more details.
-If you want to ask a question or suggest something, please open an issue.
